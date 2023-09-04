@@ -4,9 +4,17 @@ En este repositorio se encuentra el proyecto progresivo donde se realizó una pa
 
 ## Objetivo
 
-Realizar un sitio web utilizando una estructura de HTML semánticamente y estructuradamente correcta y complementar la presentación con estilos CSS sobre alguna temática en especifico (temáticas en imagen adjunta). El contenido debe ser representativo y significativo con una estructura compleja en su contenido pero no en su entendimiento. Todo contenido deber ser redactado de cero sin recurrir a copiar y pegar contenido escrito por ningún motivo; por lo tanto, se calificará también redacción y ortografía
+Realizar un sitio web utilizando una estructura de HTML semánticamente y estructuradamente correcta y complementar la presentación con estilos CSS sobre alguna temática en especifico. Contenido  representativo y significativo con una estructura compleja en su contenido pero no en su entendimiento. Todo contenido deber ser redactado de cero sin recurrir a copiar y pegar contenido escrito por ningún motivo; por lo tanto, se calificará también redacción y ortografía
 
-## Información
+## Herramientas usadas 
+
+- HTML
+- CSS
+- Illustrator (diseño)
+- Bootstrap/Framewonrk
+
+### Información
+
 
 ![ezioAudiotre.png](Ezio%20Auditore%20da%20Firenze%2062bfd195a9964164a0c7d6a0218dd0c8/ezioAudiotre.png)
 

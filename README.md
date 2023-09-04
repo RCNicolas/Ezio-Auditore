@@ -35,6 +35,3 @@ El diseño de la pagina se hizo con la herramienta de illustrator
 
 ![Diseño.png](Ezio%20Auditore%20da%20Firenze%2062bfd195a9964164a0c7d6a0218dd0c8/Diseo.png)
 
-## 
-
-[https://www.notion.so](https://www.notion.so)

@@ -308,6 +308,26 @@ img.games{
 
 }
 
+/* <img src="./images/AssassinsCredd II.webp" alt="" class="games"> */
+
+/* .appearance, .contenedor-target{
+    max-width: 250px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+
+}
+
+.contenedor-target, .target-appearances{
+    height: 100%;
+    width: 100%;
+    border-radius: 10%;
+    position: relative;
+    overflow: hidden;
+     
+} */
 
 /* Slider */
 

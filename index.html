@@ -18,7 +18,7 @@
 
 <body>
     <header id="Header">
-        
+
         <img src="./images/LogoBlanco.png" class="logo" alt="logo" height="35">
         <input type="checkbox" name="#" id="menu">
         <nav class="nav-bar">
@@ -35,7 +35,7 @@
             </ul>
         </nav>
     </header>
-    <section class="container">
+    <section class="container-secction">
         <h1 class="center-h1" id="main">Ezio Auditore da Firenze</h1>
         <diV class="door">
             <img src="./images/ezioAudiotre.png" alt="Ezio" id="ezio">
@@ -346,7 +346,11 @@
         <h1 class="center-h1" id="Appearances">Apariciones</h1>
         <div class="container-appearances">
             <div class="appearance">
-                <img src="./images/AssassinsCredd II.webp" alt="" class="games">
+                <div class="contenedor-target">
+                    <div class="target-appearances">
+
+                    </div>
+                </div>
                 <div class="text-box">
                     <h2 class="titulos-juegos">Assassin's Creed II</h2>
                     <p>Primer video juego de la saga donde se introduce al personaje como un joven noble florentino
@@ -420,7 +424,20 @@
 
             <div class="text-desing">
                 <p>
-                    Désilets es un diseñador de videojuegos canadiense, conocido por ser el creador de la saga Assassin's Creed. Trabajó en Montreal desde 1997 hasta 2010, donde dirigió el desarrollo de Assassin's Creed, Assassin’s Creed II y Assassin’s Creed: Brotherhood. <br> Su proyecto de creación de Ezio Auditore fue parte de su vision de expandir el universo de la franquicia y explorar diferentes épocas y lugares históricos. <br> <br> Él queria crear un personaje que fuera difrente a Altair, el protagonista del primer juego y que tuviera una evolución personal a lo largo de su vida.La inspiración de Désilets para la creación del personaje Ezio fue basada en el actor Robert Downey Jr. y el personaje histórico Cesar Borgia. Su vestimenta y equipo reflejan su condición de asesino y su origen florentino. Su personalidad es carismática, valiente y noble, pero tambien es impulsivo y vengativo. Según el diseñador, él se inspiró en Cesar Borgia para crear a Ezio como su antagonista histórico. El diseño gráfico de Ezio Auditore es el resultado de un trabajo de modelado 3D, texturizado, iluminación y animación que buscaba recrear el aspecto y los movimientos del personaje de forma realista y detallada. El diseño gráfico de Ezio Auditore cambia a lo largo de los diferentes videojuegos en los que aparece, reflejando su edad, su experiencia y su equipamiento.
+                    Désilets es un diseñador de videojuegos canadiense, conocido por ser el creador de la saga
+                    Assassin's Creed. Trabajó en Montreal desde 1997 hasta 2010, donde dirigió el desarrollo de
+                    Assassin's Creed, Assassin’s Creed II y Assassin’s Creed: Brotherhood. <br> Su proyecto de creación
+                    de Ezio Auditore fue parte de su vision de expandir el universo de la franquicia y explorar
+                    diferentes épocas y lugares históricos. <br> <br> Él queria crear un personaje que fuera difrente a
+                    Altair, el protagonista del primer juego y que tuviera una evolución personal a lo largo de su
+                    vida.La inspiración de Désilets para la creación del personaje Ezio fue basada en el actor Robert
+                    Downey Jr. y el personaje histórico Cesar Borgia. Su vestimenta y equipo reflejan su condición de
+                    asesino y su origen florentino. Su personalidad es carismática, valiente y noble, pero tambien es
+                    impulsivo y vengativo. Según el diseñador, él se inspiró en Cesar Borgia para crear a Ezio como su
+                    antagonista histórico. El diseño gráfico de Ezio Auditore es el resultado de un trabajo de modelado
+                    3D, texturizado, iluminación y animación que buscaba recrear el aspecto y los movimientos del
+                    personaje de forma realista y detallada. El diseño gráfico de Ezio Auditore cambia a lo largo de los
+                    diferentes videojuegos en los que aparece, reflejando su edad, su experiencia y su equipamiento.
                 </p>
             </div>
 
@@ -433,13 +450,11 @@
     <!-- Footer -->
     <footer class="bg-dark  text-white">
         <div class="container-nav">
-            <nav>
+            <nav class="footer">
                 <!-- menu -->
+
                 <ul class=" list-unstyled">
-                    <li class="font-weight-blod text-uppercase">
-                        Redes
-                    </li>
-                    <li class="d-flex justify-content-around">
+                    <li class="mx-auto" style="width: 200px; justify-content: space-between;">
                         <!-- Instagram -->
                         <a href="https://www.instagram.com/nicosanrz/" class="text-reset">
                             <i class="fa-brands fa-instagram" style="color: #ffffff;"></i>
@@ -458,11 +473,11 @@
                         </a>
                     </li>
                 </ul>
-                
-                    <p class="text-reset d-flex justify-content-around font-weight-blod text-uppercase ">
-                            Copyright &copy; 2023
-                    </p>
-                
+
+                <p class="justify-content-center">
+                    Copyright &copy; 2023
+                </p>
+
             </nav>
         </div>
     </footer>
